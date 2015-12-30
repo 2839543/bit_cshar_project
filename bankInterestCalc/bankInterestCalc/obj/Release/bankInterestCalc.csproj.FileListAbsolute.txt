@@ -1,0 +1,10 @@
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Release\bankInterestCalc.exe.config
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Release\bankInterestCalc.exe
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Release\bankInterestCalc.pdb
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Release\System.Data.SQLite.dll
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Release\System.Data.SQLite.pdb
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Release\bankInterestCalc.Form1.resources
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Release\bankInterestCalc.Properties.Resources.resources
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Release\bankInterestCalc.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Release\bankInterestCalc.exe
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Release\bankInterestCalc.pdb

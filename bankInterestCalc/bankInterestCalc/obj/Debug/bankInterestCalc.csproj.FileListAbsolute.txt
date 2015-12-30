@@ -1,0 +1,22 @@
+d:\documents\visual studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Debug\bankInterestCalc.exe.config
+d:\documents\visual studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Debug\bankInterestCalc.exe
+d:\documents\visual studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Debug\bankInterestCalc.pdb
+d:\documents\visual studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.exe
+d:\documents\visual studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.pdb
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Debug\System.Data.SQLite.dll
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\bin\Debug\System.Data.SQLite.pdb
+d:\Documents\Visual Studio 2012\Projects\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.Interest.resources
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\bin\Debug\bankInterestCalc.exe.config
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.pdb
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\bin\Debug\bankInterestCalc.exe
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\bin\Debug\bankInterestCalc.pdb
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\bin\Debug\System.Data.SQLite.dll
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\bin\Debug\System.Data.SQLite.pdb
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.csprojResolveAssemblyReference.cache
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.Interest.resources
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.Properties.Resources.resources
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.csproj.GenerateResource.Cache
+D:\tmp\2015-12-31\bankInterestCalc\bankInterestCalc\obj\Debug\bankInterestCalc.exe

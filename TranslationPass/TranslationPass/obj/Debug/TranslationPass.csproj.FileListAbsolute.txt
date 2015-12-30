@@ -1,0 +1,6 @@
+d:\documents\visual studio 2012\Projects\TranslationPass\TranslationPass\bin\Debug\TranslationPass.exe.config
+d:\documents\visual studio 2012\Projects\TranslationPass\TranslationPass\bin\Debug\TranslationPass.exe
+d:\documents\visual studio 2012\Projects\TranslationPass\TranslationPass\bin\Debug\TranslationPass.pdb
+d:\documents\visual studio 2012\Projects\TranslationPass\TranslationPass\obj\Debug\TranslationPass.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\TranslationPass\TranslationPass\obj\Debug\TranslationPass.exe
+d:\documents\visual studio 2012\Projects\TranslationPass\TranslationPass\obj\Debug\TranslationPass.pdb
