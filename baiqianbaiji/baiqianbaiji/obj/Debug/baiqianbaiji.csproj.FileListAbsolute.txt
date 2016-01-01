@@ -1,0 +1,6 @@
+d:\documents\visual studio 2012\Projects\baiqianbaiji\baiqianbaiji\bin\Debug\baiqianbaiji.exe.config
+d:\documents\visual studio 2012\Projects\baiqianbaiji\baiqianbaiji\bin\Debug\baiqianbaiji.exe
+d:\documents\visual studio 2012\Projects\baiqianbaiji\baiqianbaiji\bin\Debug\baiqianbaiji.pdb
+d:\documents\visual studio 2012\Projects\baiqianbaiji\baiqianbaiji\obj\Debug\baiqianbaiji.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\baiqianbaiji\baiqianbaiji\obj\Debug\baiqianbaiji.exe
+d:\documents\visual studio 2012\Projects\baiqianbaiji\baiqianbaiji\obj\Debug\baiqianbaiji.pdb

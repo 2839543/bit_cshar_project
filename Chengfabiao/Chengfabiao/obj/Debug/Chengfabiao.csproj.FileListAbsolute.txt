@@ -1,0 +1,5 @@
+d:\documents\visual studio 2012\Projects\Chengfabiao\Chengfabiao\bin\Debug\Chengfabiao.exe.config
+d:\documents\visual studio 2012\Projects\Chengfabiao\Chengfabiao\bin\Debug\Chengfabiao.exe
+d:\documents\visual studio 2012\Projects\Chengfabiao\Chengfabiao\bin\Debug\Chengfabiao.pdb
+d:\documents\visual studio 2012\Projects\Chengfabiao\Chengfabiao\obj\Debug\Chengfabiao.exe
+d:\documents\visual studio 2012\Projects\Chengfabiao\Chengfabiao\obj\Debug\Chengfabiao.pdb
